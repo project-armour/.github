@@ -5,3 +5,5 @@
 </p>
 
 # Project ARMOUR
+
+The personal safety app for the modern age.
