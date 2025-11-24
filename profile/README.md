@@ -13,3 +13,8 @@
 ## Project ARMOUR
 
 The personal safety app for the modern age.
+
+### Source Code
+
+- Mobile App: [armour_app](https://github.com/project-armour/armour_app)
+- Band Firmware: [esp-armour-v2](https://github.com/project-armour/esp-armour-v2)
