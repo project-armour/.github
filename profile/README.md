@@ -1,6 +1,12 @@
 <h3 align="center">
 
-![1000028226](https://github.com/user-attachments/assets/6ae2b12f-e838-46bf-863b-05fdbda83c6c)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6ae2b12f-e838-46bf-863b-05fdbda83c6c">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4645c2c1-077e-4787-962c-2b5329b5c297">
+  <img alt="ARMOUR Wordmark" src="https://github.com/user-attachments/assets/6ae2b12f-e838-46bf-863b-05fdbda83c6c" width=360>
+</picture>
 
 </h3>
 
